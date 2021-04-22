@@ -1,0 +1,41 @@
+body {
+	background-color: #d2d2df;
+	font-family: italics;
+}
+
+h1 {
+	margin: 3;
+	text-align: center;
+}
+
+#container {
+	background-color: #b98b8b;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	font-family: italics;
+	padding: 20px;
+}
+
+#header {
+	background-color: #dadae7;
+	color:white;
+	text-align: Center;
+	padding: 15px;
+}
+
+#content {
+	padding: 15px;
+}
+
+#main {
+	width: 600px;
+	float: center;
+}
+
+#footer {
+	clear: both;
+	padding: 50px;
+	text-align: right;
+}
